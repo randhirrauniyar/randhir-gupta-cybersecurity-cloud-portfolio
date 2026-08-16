@@ -43,7 +43,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResumeModal }) => {
         <h1 className="text-4xl sm:text-6xl md:text-7xl font-extrabold tracking-tight text-white mb-6 font-heading">
           <span className="block text-slate-100">{personalInfo.name.toUpperCase()}</span>
           <span className="block mt-2 text-2xl sm:text-4xl md:text-5xl font-semibold bg-gradient-to-r from-cyan-300 via-sky-200 to-emerald-300 bg-clip-text text-transparent">
-            Cybersecurity Engineer in Progress.
+            Cybersecurity Engineer.
           </span>
           <span className="block text-xl sm:text-2xl md:text-3xl font-medium text-slate-400 mt-1">
             Builder. Researcher. Developer.
