@@ -91,7 +91,6 @@ export const projectsData: Project[] = [
       "Integrated AWS cloud storage principles with fast asset distribution",
     ],
     githubUrl: "https://github.com/randhirrauniyar/enc-cloud-storage",
-    liveDemoUrl: "https://github.com/randhirgupta/enc-cloud-storage",
     image: "/images/projects/enc-cloud.svg",
     securityFocus: "Data Protection, Object Storage & Cloud Access Management",
   },
