@@ -46,7 +46,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenResumeModal }) => {
             Cybersecurity Engineer.
           </span>
           <span className="block text-xl sm:text-2xl md:text-3xl font-medium text-slate-400 mt-1">
-            Builder. Researcher. Developer.
+            Cybersecurity Researcher • Cloud Security • AI/ML
           </span>
         </h1>
 
