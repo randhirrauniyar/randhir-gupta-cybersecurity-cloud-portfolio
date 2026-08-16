@@ -2,7 +2,7 @@ import { Project, SkillCategory, ExperienceItem, CertificationItem, AchievementI
 
 export const personalInfo = {
   name: "Randhir Gupta",
-  role: "Cybersecurity Engineer in Progress. Builder. Researcher. Developer.",
+  role: "Cybersecurity Engineer | Cloud Security | AI/ML | Researcher",
   titleSignature: "Cybersecurity • Cloud • AI/ML • Web Development",
   status: "Open to internships & technical opportunities",
   email: "randhirgupta9876@gmail.com",
